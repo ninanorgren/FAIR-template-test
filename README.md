@@ -1,7 +1,7 @@
 <!--
 
-author:   name last_name
-email:    training@vib.de
+author:   Nina Norgren
+email:    training@scilifelab.se
 version:  1.0.0
 language: en
 narrator: UK English Female
@@ -24,7 +24,7 @@ link:     https://fonts.googleapis.com/css2?family=Saira+Condensed:wght@300&disp
 link:     https://fonts.googleapis.com/css2?family=Open+Sans&display=swap
 link:     https://raw.githubusercontent.com/vibbits/material-liascript/master/vib-styles.css
 
-tutor: Neuropixels
+tutor: Awesome workshop
 edition: 1st 
 
 -->
@@ -37,7 +37,7 @@ This is the @edition edition of this workshop, jointly organised by the VIB and 
 
 <img src="./images/globes/41920.jpg" width="350" align="center"/>
 
-Example image to ilustrate the front page of the material. This image was [Designed by macrovector / Freepik](https://www.freepik.com/free-vector/globe-earth-world-icons-vector-white-black_10601425.htm#fromView=author&page=1&position=27&uuid=726a85e1-abc9-4f55-a242-bdb7cd5733f1)
+Example image to illustrate the front page of the material. This image was [Designed by macrovector / Freepik](https://www.freepik.com/free-vector/globe-earth-world-icons-vector-white-black_10601425.htm#fromView=author&page=1&position=27&uuid=726a85e1-abc9-4f55-a242-bdb7cd5733f1)
 
 > We are using the interactive Open Educational Resource online/offline course infrastructure called LiaScript.
 > It is a distributed way of creating and sharing educational content hosted on github.
@@ -83,17 +83,17 @@ This course consist of .....
 > <i class="fa fa-arrow-right"></i> **Learning Outcomes:**  
 > By the end of the course, learners will be able to:
 >
-> 1. Define what ..... [Remembering] 
+> 1. Define what FAIR is
 >
-> 2. Discuss and explain ..... [Understanding] 
+> 2. Discuss and explain why training should be FAIR
 >
-> 3. Apply and modify ..... [Applying] 
+> 3. Apply and modify github templates
 >
-> 4. Compare ..... [Analysing] 
+> 4. Compare different LMSes
 >
-> 5. Evaluate and select ..... [Evaluating] 
+> 5. Evaluate and select delivery method
 >
-> 6. Create and integrate ..... [Creating]
+> 6. Create and integrate DOIs
 >
 > Check more about [Bloom's taxonomy](https://cft.vanderbilt.edu/guides-sub-pages/blooms-taxonomy/) to categorize the levels in educational goals
 
