@@ -29,7 +29,7 @@ edition: 1st
 
 -->
 
-# Course Title
+# @tutor
 
 Hello and welcome to our @tutor workshop! We are very happy to have you here.
 
